@@ -21,7 +21,7 @@ export const AboutObjTwo={
     buttonLabel:'Learn More',
     description:'Our first event was an introduction meetup. We presented our core-team, talked about ourselves and the technologies that we could cover at our events.',
     headline:'OUR PROUD MOMENT😎',
-    lightText:true,
+    lightText:false,
     img:require('../../images/two.png').default,
     alt:'Image',
     start:'true'
