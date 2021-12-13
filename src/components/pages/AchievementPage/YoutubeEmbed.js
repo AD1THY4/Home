@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 
 const YoutubeEmbed = ({ embedId }) => (
   <div className="video-responsive">
+    <center>
     <iframe
       width="853"
       height="480"
@@ -12,6 +13,7 @@ const YoutubeEmbed = ({ embedId }) => (
       allowFullScreen
       title="GDSC SREC"
     />
+    </center>
   </div>
 );
 
