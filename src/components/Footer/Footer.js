@@ -25,37 +25,36 @@ export default function Footer() {
 
         <div className="quick-links">
           <a href="https://www.linkedin.com/in/sanjaydevtech" target="_blank">
-            Sanjay
+            Adthiya
           </a>
           <a
             href="https://www.linkedin.com/in/jayasakthi-balaji-g-337128204"
-            target="_blank"
-          >
-            Jayasakthi Balaji
+            target="_blank">
+            Swetha
           </a>
           <a href="https://www.linkedin.com/in/harifbx" target="_blank">
-            Hari Krishna
+            Nandhini
           </a>
           <a href="http://www.linkedin.com/in/mohamedfazil17" target="_blank">
-            Mohamed Fazil
+            Sneha
           </a>
           <a
             href="https://www.linkedin.com/in/jaswanth-solai-ba49b3191"
             target="_blank"
           >
-            Jaswanth Solai
+            Swetha sri
           </a>
           <a
             href="https://www.linkedin.com/in/varniha-s-6a7232222"
             target="_blank"
           >
-            Varniha
+            Sanjay
           </a>
           <a
             href="https://www.linkedin.com/in/geetha-palanisamy-b2323b193"
             target="_blank"
           >
-            Geetha
+            Harshanth
           </a>
         </div>
         <p className="gdsc">Google Developer Student Club :)</p>

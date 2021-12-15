@@ -1,4 +1,5 @@
 [{
+    "userid":1,
     "img":"https://i.ibb.co/2dHvJG4/1.jpg",
     "description":"our public page at VK has more than 250 followers. It is a major part of all students related to IT and CS at our university.",
     "headline":"OUR FIRST STEP",
@@ -6,27 +7,39 @@
    
 },
 {
-    "img":"https://i.ibb.co/99ynfB5/two.pnghttps://i.ibb.co/098kHpB/two.png",
+    "userid":2,
+    "img":"https://i.ibb.co/2dHvJG4/1.jpg",
     "description":"Our first event was an introduction meetup. We presented our core-team, talked about ourselves and the technologies that we could cover at our events.",
     "headline":"OUR PROUD MOMENT",
     "color": 0
 
 },
 {
-    "img":"require('../../images/1.jpg').default",
+    "userid":3,
+    "img":"https://i.ibb.co/2dHvJG4/1.jpg",
     "description":"we were escorted back to the coasters and were en route to the Pakistan National Monument. We took some personal pictures there, made some memories, and then our official picture was taken. 📷",
     "headline":"NATIONAL MONUMENT OF PAKISTAN" ,
     "color": 1
 },
 {
-    "img":"require('../../images/won.jpg').default",
+    "userid":4,
+    "img":"https://i.ibb.co/2dHvJG4/1.jpg",
     "description":"BECOMING THE TOP DSC LEAD OF SOUTHEAST ASIA..And this concluded the Developer Student Club Summit 2019. Woohoo!! Here is the picture of the amazing people who came from abroad just to provide us with these amazing three-day experience.",
     "headline":"WE WON" ,
     "color": 0
 },
 {
-    "img":"require('../../images/last.jpg').default",
+    "userid":5,
+    "img":"https://i.ibb.co/2dHvJG4/1.jpg",
     "description":"Talent wins games, but teamwork and intelligence win championships.",
     "headline":"WE THE GDSC FAM" ,
     "color": 1
+},
+{
+    "userid":6,
+    "img":"https://i.ibb.co/2dHvJG4/1.jpg",
+    "description":"Talent wins games, but teamwork and intelligence win championships.",
+    "headline":"WE THE GDSC FAM" ,
+    "color": 0
+
 }]
